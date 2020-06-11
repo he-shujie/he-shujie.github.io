@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的第一篇文章</title>
+      <link href="/2020/06/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2020/06/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一、欢迎"><a href="#一、欢迎" class="headerlink" title="一、欢迎"></a>一、欢迎</h1><h3 id="呼哈哈哈哈哈"><a href="#呼哈哈哈哈哈" class="headerlink" title="呼哈哈哈哈哈"></a>呼哈哈哈哈哈</h3><blockquote><p>hhhh</p></blockquote><pre class=" language-c"><code class="language-c"><span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;iostream></span></span>using namespace std<span class="token punctuation">;</span><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类名 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签名 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
