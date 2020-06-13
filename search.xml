@@ -4,25 +4,19 @@
   
     
     <entry>
-      <title>我的第一篇文章</title>
-      <link href="/posts/f568.html"/>
-      <url>/posts/f568.html</url>
+      <title>teset-101</title>
+      <link href="/posts/5be7.html"/>
+      <url>/posts/5be7.html</url>
       
-        <content type="html"><![CDATA[<h1 id="一、欢迎"><a href="#一、欢迎" class="headerlink" title="一、欢迎"></a>一、欢迎</h1><h3 id="呼哈哈哈哈哈"><a href="#呼哈哈哈哈哈" class="headerlink" title="呼哈哈哈哈哈"></a>呼哈哈哈哈哈</h3><blockquote><p>hhhh</p></blockquote><pre class=" language-c"><code class="language-c"><span class="token macro property">#<span class="token directive keyword">include</span> <span class="token string">&lt;iostream></span></span>using namespace std<span class="token punctuation">;</span><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span><span class="token punctuation">}</span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="markdown语法"><a href="#markdown语法" class="headerlink" title="markdown语法"></a>markdown语法</h1><h2 id="注：本次测试兼markdown语法学习，关于如何建站，日后发文"><a href="#注：本次测试兼markdown语法学习，关于如何建站，日后发文" class="headerlink" title="注：本次测试兼markdown语法学习，关于如何建站，日后发文"></a><strong>注：本次测试兼markdown语法学习，关于如何建站，日后发文</strong></h2><h2 id="一-标题的书写符号"><a href="#一-标题的书写符号" class="headerlink" title="一 标题的书写符号"></a>一 标题的书写符号</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题  ###"></a>三级标题  <code>###</code></h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题 ####"></a>四级标题 <code>####</code></h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题   #####"></a>五级标题   <code>#####</code></h5><h6 id="六级标题-min"><a href="#六级标题-min" class="headerlink" title="六级标题 min######"></a>六级标题 <code>min######</code></h6><hr><p><code>*内容*</code><em>斜体字</em>，<code>**内容**</code><strong>粗体字</strong>，<code>***内容***</code><strong><em>斜刺额粗粗的字</em></strong><br><code>~~内容~~~</code><del>删除这一段文字</del>，分割线是<code>---</code>这个</p><hr><h2 id="二-列表"><a href="#二-列表" class="headerlink" title="二 列表"></a>二 列表</h2><h3 id="列表开始结束加一空行！！！"><a href="#列表开始结束加一空行！！！" class="headerlink" title="列表开始结束加一空行！！！"></a>列表开始结束加一空行！！！</h3><ul><li>无序列表开始<code>+</code><ul><li>无序列表开始<code>-</code><ul><li>无序列表开始<code>*</code><ul><li>我就是这样子的 ++–**</li></ul></li><li>无序列表开始</li></ul></li><li>无序列表开始</li></ul></li><li>无序列表结束</li></ul><ol><li>有序列表开始<code>阿拉伯数字加一点空格</code><ol><li>有序列表开始<code>阿拉伯数字加一点空格</code><ol><li>有序列表开始<code>阿拉伯数字加一点空格</code>     </li><li>文字引用做穿插写一下，<code>&gt;</code>，老弟<blockquote><p>文字引用靠你了，<code>&gt;老弟</code></p><blockquote><p>文字引用靠你了，<code>&gt;&gt;老弟</code></p><blockquote><p>文字引用靠你了，<code>&gt;&gt;&gt;老弟</code></p></blockquote></blockquote></blockquote></li></ol></li></ol></li></ol><h2 id="三-链接"><a href="#三-链接" class="headerlink" title="三 链接"></a>三 链接</h2><ol><li><a href="https://windstorm.ga/">我是一个么得感情的链接</a></li><li>介绍一下用法<br><code>[添加链接的对象](URL)或者[][URL序号]，当出现很多网站需要连接时，在适当的段落尾部逐个给出，较为调理</code><br><a href="https://windstorm.ga/">我是一个么得感情的链接</a></li></ol><ol start="3"><li>图片的使用<code>![描述](网站)</code><br>举个例子，疫情在家，多运动 <code>![test101.gif](url)</code><br><img src="https://sm.ms/image/hbW4mdUezgvSY7c" alt="test101.gif"></li></ol><h2 id="四-表格"><a href="#四-表格" class="headerlink" title="四 表格"></a>四 表格</h2><p>|-|——-:|:——:|<br>试一试<br>|表头|row 1|row 2|<br>|-|——-:|:——:|<br>|cloumn 1|e1|e2|<br>|cloumn 2|e3|e4|</p>]]></content>
       
       
       <categories>
           
-          <category> 分类名 </category>
+          <category> 语法&amp;博文测试 </category>
           
       </categories>
       
-      
-        <tags>
-            
-            <tag> 标签名 </tag>
-            
-        </tags>
       
     </entry>
     
