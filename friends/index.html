@@ -274,9 +274,7 @@
 
 
 <script>
-    // 每天切换 banner 图.  Switch banner image every day.
-    var bannerUrl = "/images/BLOG-IMG/week-banner/" + new Date().getDay() + '.png';
-    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
+    $('.bg-cover').css('background-image', 'url(/images/BLOG-IMG/week-banner/3.png)');
 </script>
 
     </div>
@@ -514,7 +512,7 @@
 
     <footer class="page-footer bg-color">
     
-        <link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
+        <!-- <link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
 <style>
     .aplayer .aplayer-lrc p {
         
@@ -565,7 +563,7 @@
 </div>
 
 <script src="/libs/aplayer/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script> -->
 
     
     <div class="container row center-align" style="margin-bottom: 15px !important;">
@@ -579,6 +577,8 @@
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
                 class="white-color">646</span>&nbsp;字
+            
+            
             
             
             
@@ -643,7 +643,7 @@
             <br>
             
         </div>
-        <div class="col s12 m4 l4 social-link ">
+        <div class="col s12 m4 l4 social-link social-statis">
     <a href="https://github.com/he-shujie" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
@@ -690,7 +690,7 @@
 
 
     <!-- 搜索遮罩框 -->
-<div id="searchModal" class="modal">
+<!-- <div id="searchModal" class="modal">
     <div class="modal-content">
         <div class="search-header">
             <span class="title"><i class="fas fa-search"></i>&nbsp;&nbsp;搜索</span>
@@ -706,7 +706,7 @@
 $(function () {
     searchFunc("/search.xml", 'searchInput', 'searchResult');
 });
-</script>
+</script> -->
 
     <!-- 回到顶部按钮 -->
 <div id="backTop" class="top-scroll">
@@ -744,6 +744,8 @@ $(function () {
     
     <script src="/libs/others/clicklove.js" async="async"></script>
     
+    
+    <script async src="/libs/others/busuanzi.pure.mini.js"></script>
     
 
     
